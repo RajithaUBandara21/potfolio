@@ -1,6 +1,9 @@
 import { Parallax } from "react-parallax";
 import { Link } from "react-scroll";
 import Navbar from '../layout/Navbar';
+import Preloader from "../layout/Preloader";
+import Particle from '../layout/Particle';
+import ScrollToTopBtn from '../layout/ScrollToTop';
 import Hero from '../section/hero';
 import About from '../section/about';
 import Blockquote from '../section/blockquote';
@@ -11,9 +14,6 @@ import Counter from '../section/counter';
 import Blog from '../section/blog';
 import Contact from '../section/contact';
 import Footer from '../section/footer';
-import Preloader from "../layout/Preloader";
-import ScrollToTopBtn from '../layout/ScrollToTop';
-import Particle from '../layout/Particle';
 import { createGlobalStyle } from 'styled-components';
 
 const image1 ="./img/background/me01.png";
