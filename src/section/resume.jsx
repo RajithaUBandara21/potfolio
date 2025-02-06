@@ -84,7 +84,7 @@ const hero = () => {
                                 <h3 className="d_timeline-title">2014 - now</h3>
                                 <p className="d_timeline-text">
                                 	<span className="d_title">Founder &amp; Creative Director</span>
-                                	<span className="d_company">Kyros Studio</span>
+                                	<span className="d_company">rajitha Studio</span>
                                 	Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi tempora perferendis vero officia enim impedit voluptatem dignissimos, veniam ratione est alias rerum aperiam, nam aliquam reprehenderit iste dolor.
                                 </p>
                             </li>
@@ -100,7 +100,7 @@ const hero = () => {
                                 <h3 className="d_timeline-title">2008 - 2010</h3>
                                 <p className="d_timeline-text">
                                 	<span className="d_title">Graphic Designer</span>
-                                	<span className="d_company">Kyros Studio</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi tempora perferendis vero officia enim impedit voluptatem dignissimos, veniam ratione est alias rerum aperiam, nam aliquam reprehenderit iste dolor.
+                                	<span className="d_company">rajitha Studio</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi tempora perferendis vero officia enim impedit voluptatem dignissimos, veniam ratione est alias rerum aperiam, nam aliquam reprehenderit iste dolor.
                                 </p>
                             </li>
                         </ul>
